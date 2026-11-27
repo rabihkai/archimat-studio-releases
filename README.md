@@ -21,7 +21,7 @@ Windows 10 or 11, 64-bit, and an internet connection to make images.
 
 ## Updates
 
-Archimat Studio checks once a day whether a newer version is published here. When there is one,
+Archimat Studio checks each time it starts and once a day whether a newer version is published here. When there is one,
 a notice at the top of its page shows what is new and a **Download and install** button: Studio
 closes, installs the update and opens again. You can also download the newest installer from the
 [latest release](https://github.com/rabihkai/archimat-studio-releases/releases/latest) and run it
